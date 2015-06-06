@@ -1,6 +1,6 @@
 Local Storage To Do List
 ==============
-This was a simple to do list app that I put together. It utilizes the local storage in your browser to save list and list item data so information is not lost when you navigate away from the page. I used Bootstrap to create the simple and clean design. It also utilizes the Bootstrap responsive framework to make it display properly across all devices. 
+This is a simple to do list app that I put together. It utilizes the local storage in your browser to save list and list item data so information is not lost when you navigate away from the page. I used Bootstrap to create the simple and clean design. It also utilizes the Bootstrap responsive framework to make it display properly across all devices.  
 
 ![Screenshot](http://www.dominikdev.com/resources/github/screenshots/todolist.png "Screenshot")
 
