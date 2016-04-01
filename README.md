@@ -4,7 +4,7 @@ This is a simple to do list app that I put together. It utilizes the local stora
 
 ![Screenshot](http://www.dominikdev.com/resources/github/screenshots/todolist.png "Screenshot")
 
-View Project: [Local Storage To Do List](http://bit.ly/todols)
+View Project: [Local Storage To Do List](http://www.dominikdev.com/portfolio/todo/index.html)
 
 Features
 --------------
